@@ -1,5 +1,5 @@
-console.log('2*1=2');
-console.log('2*2=4');
-console.log('2*3=6');
-console.log('2*4=8');
-console.log('2*5=10');
+Console.log('2*1=2');
+Console.log('2*2=4');
+Console.log('2*3=6');
+Console.log('2*4=8');
+Console.log('2*5=10');
